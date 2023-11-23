@@ -1,6 +1,6 @@
 # ProyectoPOO
 
-Proyecto Por:
+Proyecto hecho por:
 Laura Dayan Caminos Mora, 
 Jose David Muñoz Montero, 
 Jaider Duvan Montaña Gañan,  
